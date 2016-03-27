@@ -1,4 +1,4 @@
-A list of DH-ish users and organizations on GitHub. Contact me to be added yourself or add someone else (create an issue or tweet @Literature_Geek). 
+A list of DH-ish users and organizations on GitHub. Contact me to be added yourself or add someone else (create an issue or tweet [@Literature_Geek](http://www.twitter.com/literature_geek)). 
 
 # Users
 
@@ -158,7 +158,7 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 * https://github.com/programminghistorian
 
 # Useful DH repos
-* Got to work on this one more later... *
+*Got to work on this section more later...*
 
 * https://github.com/dhtaxonomy/TaDiRAH
 
