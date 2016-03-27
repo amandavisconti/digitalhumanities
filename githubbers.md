@@ -1,4 +1,4 @@
-A list of DH-ish users and organizations on GitHub. Contact me to be added yourself or add someone else (create an issue or tweet [@Literature_Geek](http://www.twitter.com/literature_geek)). 
+A list of DH-ish users and organizations on GitHub. Contact me to be added yourself or add someone else (create an issue or tweet [@Literature_Geek](http://www.twitter.com/literature_geek)). This list has a tiny URL: [http://tinyurl.com/dhgithub](http://tinyurl.com/dhgithub).
 
 # Users
 
