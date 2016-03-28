@@ -10,6 +10,14 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 * https://github.com/scottbot
 
+* https://github.com/sebastianrahtz
+
+* https://github.com/hcayless
+
+* https://github.com/jamescummings
+* 
+* https://github.com/balmas
+
 * https://github.com/shawngraham
 
 * https://github.com/mdlincoln
@@ -156,6 +164,10 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 * https://github.com/openannotation
 
 * https://github.com/programminghistorian
+ 
+* https://github.com/TEIC
+
+* https://github.com/textcreationpartnership 
 
 # Useful DH repos
 *Got to work on this section more later...*
