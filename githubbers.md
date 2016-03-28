@@ -150,6 +150,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 * https://github.com/james3neal
 
+* https://github.com/coryandrewtaylor
+
 
 # Organizations
 
