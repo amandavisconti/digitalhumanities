@@ -15,7 +15,7 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 * https://github.com/hcayless
 
 * https://github.com/jamescummings
-* 
+ 
 * https://github.com/balmas
 
 * https://github.com/shawngraham
