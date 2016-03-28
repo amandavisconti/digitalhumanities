@@ -151,6 +151,7 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 * https://github.com/james3neal
 
 * https://github.com/coryandrewtaylor
+* https://github.com/mkgold
 
 
 # Organizations
@@ -171,11 +172,25 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 * https://github.com/textcreationpartnership 
 
+* https://github.com/achorg
+
+* https://github.com/cuny-academic-commons
+
 # Useful DH repos
 *Got to work on this section more later...*
 
 * https://github.com/dhtaxonomy/TaDiRAH
 
+* https://github.com/cuny-academic-commons/commons-in-a-box
+
+* https://github.com/GCDigitalFellows/Workshop-Outlines
+
+* https://github.com/ManifoldScholar/manifold
+
 * https://github.com/openannotation/annotatorjs.org
 
 * https://github.com/amandavisconti/infinite-ulysses-dissertation
+
+* https://github.com/castiron/didh
+
+* https://github.com/curateteaching/digitalpedagogy
