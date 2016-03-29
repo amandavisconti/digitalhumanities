@@ -156,6 +156,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 * https://github.com/jamiefolsom
 
+* https://github.com/decretist
+
 
 # Organizations
 
