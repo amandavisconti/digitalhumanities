@@ -158,6 +158,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 * https://github.com/lb42
 
+* https://github.com/JaimieMurdock
+
 
 # Organizations
 
@@ -182,6 +184,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 * https://github.com/cuny-academic-commons
 
 * https://github.com/hyperstudio
+
+* https://github.com/inpho
 
 # Useful DH repos
 *Got to work on this section more later...*
