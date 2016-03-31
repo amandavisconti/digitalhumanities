@@ -2,206 +2,206 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 # Users
 
-* https://github.com/amandavisconti
+1. https://github.com/amandavisconti
 
-* https://github.com/mwidner
+1. https://github.com/mwidner
 
-* https://github.com/rlskoeser
+1. https://github.com/rlskoeser
 
-* https://github.com/scottbot
+1. https://github.com/scottbot
 
-* https://github.com/sebastianrahtz
+1. https://github.com/sebastianrahtz
 
-* https://github.com/hcayless
+1. https://github.com/hcayless
 
-* https://github.com/jamescummings
+1. https://github.com/jamescummings
  
-* https://github.com/balmas
+1. https://github.com/balmas
 
-* https://github.com/shawngraham
+1. https://github.com/shawngraham
 
-* https://github.com/mdlincoln
+1. https://github.com/mdlincoln
 
-* https://github.com/Purdom
+1. https://github.com/Purdom
 
-* https://github.com/seanpue
+1. https://github.com/seanpue
 
-* https://github.com/sruecker
+1. https://github.com/sruecker
 
-* https://github.com/sgsinclair
+1. https://github.com/sgsinclair
 
-* https://github.com/mcburton
+1. https://github.com/mcburton
 
-* https://github.com/gofilipa
+1. https://github.com/gofilipa
 
-* https://github.com/TimFinnegan
+1. https://github.com/TimFinnegan
 
-* https://github.com/JonathanReeve
+1. https://github.com/JonathanReeve
 
-* https://github.com/jessemenn
+1. https://github.com/jessemenn
 
-* https://github.com/jimsafley
+1. https://github.com/jimsafley
 
-* https://github.com/organisciak
+1. https://github.com/organisciak
 
-* https://github.com/dariusk
+1. https://github.com/dariusk
 
-* https://github.com/mkirschenbaum
+1. https://github.com/mkirschenbaum
 
-* https://github.com/sanduhrs
+1. https://github.com/sanduhrs
 
-* https://github.com/edsu
+1. https://github.com/edsu
 
-* https://github.com/anarchivist
+1. https://github.com/anarchivist
 
-* https://github.com/sharonmleon
+1. https://github.com/sharonmleon
 
-* https://github.com/rpalin
+1. https://github.com/rpalin
 
-* https://github.com/JackDougherty
+1. https://github.com/JackDougherty
 
-* https://github.com/amrys
+1. https://github.com/amrys
 
-* https://github.com/fontnerd
+1. https://github.com/fontnerd
 
-* https://github.com/moltude
+1. https://github.com/moltude
 
-* https://github.com/mialondon
+1. https://github.com/mialondon
 
-* https://github.com/erose
+1. https://github.com/erose
 
-* https://github.com/scottkleinman
+1. https://github.com/scottkleinman
 
-* https://github.com/briancroxall
+1. https://github.com/briancroxall
 
-* https://github.com/ruebot
+1. https://github.com/ruebot
 
-* https://github.com/zachwhalen
+1. https://github.com/zachwhalen
 
-* https://github.com/NLepianka
+1. https://github.com/NLepianka
 
-* https://github.com/fraistat
+1. https://github.com/fraistat
 
-* https://github.com/jswafford
+1. https://github.com/jswafford
 
-* https://github.com/katinalynn
+1. https://github.com/katinalynn
 
-* https://github.com/danielcarter
+1. https://github.com/danielcarter
 
-* https://github.com/CHichar
+1. https://github.com/CHichar
 
-* https://github.com/corybohon
+1. https://github.com/corybohon
 
-* https://github.com/raffazizzi
+1. https://github.com/raffazizzi
 
-* https://github.com/davidmcclure
+1. https://github.com/davidmcclure
 
-* https://github.com/ajstanley
+1. https://github.com/ajstanley
 
-* https://github.com/kirstenkeister
+1. https://github.com/kirstenkeister
 
-* https://github.com/AramZS
+1. https://github.com/AramZS
 
-* https://github.com/shermandorn
+1. https://github.com/shermandorn
 
-* https://github.com/trevormunoz
+1. https://github.com/trevormunoz
 
-* https://github.com/travisbrown
+1. https://github.com/travisbrown
 
-* https://github.com/elotroalex
+1. https://github.com/elotroalex
 
-* https://github.com/patrickmj
+1. https://github.com/patrickmj
 
-* https://github.com/wragge
+1. https://github.com/wragge
 
-* https://github.com/jgsmith
+1. https://github.com/jgsmith
 
-* https://github.com/jdickie
+1. https://github.com/jdickie
 
-* https://github.com/nowviskie
+1. https://github.com/nowviskie
 
-* https://github.com/clioweb
+1. https://github.com/clioweb
 
-* https://github.com/waynegraham
+1. https://github.com/waynegraham
 
-* https://github.com/davelester
+1. https://github.com/davelester
 
-* https://github.com/jenguiliano
+1. https://github.com/jenguiliano
 
-* https://github.com/davidnwright
+1. https://github.com/davidnwright
 
-* https://github.com/ebf2
+1. https://github.com/ebf2
 
-* https://github.com/Trephine
+1. https://github.com/Trephine
 
-* https://github.com/sunithamisra
+1. https://github.com/sunithamisra
 
-* https://github.com/jkaupp
+1. https://github.com/jkaupp
 
-* https://github.com/kylebickoff
+1. https://github.com/kylebickoff
 
-* https://github.com/jdmar3
+1. https://github.com/jdmar3
 
-* https://github.com/gfranzini
+1. https://github.com/gfranzini
 
-* https://github.com/sethwoodworth
+1. https://github.com/sethwoodworth
 
-* https://github.com/mattlaschneider
+1. https://github.com/mattlaschneider
 
-* https://github.com/james3neal
+1. https://github.com/james3neal
 
-* https://github.com/coryandrewtaylor
+1. https://github.com/coryandrewtaylor
 
-* https://github.com/mkgold
+1. https://github.com/mkgold
 
-* https://github.com/jamiefolsom
+1. https://github.com/jamiefolsom
 
-* https://github.com/lb42
+1. https://github.com/lb42
 
-* https://github.com/JaimieMurdock
+1. https://github.com/JaimieMurdock
 
 
 # Organizations
 
-* https://github.com/SHOREdevelopers
+1. https://github.com/SHOREdevelopers
 
-* https://github.com/umd-mith
+1. https://github.com/umd-mith
 
-* https://github.com/chnm
+1. https://github.com/chnm
 
-* https://github.com/PoeticMediaLab
+1. https://github.com/PoeticMediaLab
 
-* https://github.com/openannotation
+1. https://github.com/openannotation
 
-* https://github.com/programminghistorian
+1. https://github.com/programminghistorian
  
-* https://github.com/TEIC
+1. https://github.com/TEIC
 
-* https://github.com/textcreationpartnership 
+1. https://github.com/textcreationpartnership 
 
-* https://github.com/achorg
+1. https://github.com/achorg
 
-* https://github.com/cuny-academic-commons
+1. https://github.com/cuny-academic-commons
 
-* https://github.com/hyperstudio
+1. https://github.com/hyperstudio
 
-* https://github.com/inpho
+1. https://github.com/inpho
 
 # Useful DH repos
 *Got to work on this section more later...*
 
-* https://github.com/dhtaxonomy/TaDiRAH
+1. https://github.com/dhtaxonomy/TaDiRAH
 
-* https://github.com/cuny-academic-commons/commons-in-a-box
+1. https://github.com/cuny-academic-commons/commons-in-a-box
 
-* https://github.com/GCDigitalFellows/Workshop-Outlines
+1. https://github.com/GCDigitalFellows/Workshop-Outlines
 
-* https://github.com/ManifoldScholar/manifold
+1. https://github.com/ManifoldScholar/manifold
 
-* https://github.com/openannotation/annotatorjs.org
+1. https://github.com/openannotation/annotatorjs.org
 
-* https://github.com/amandavisconti/infinite-ulysses-dissertation
+1. https://github.com/amandavisconti/infinite-ulysses-dissertation
 
-* https://github.com/castiron/didh
+1. https://github.com/castiron/didh
 
-* https://github.com/curateteaching/digitalpedagogy
+1. https://github.com/curateteaching/digitalpedagogy
