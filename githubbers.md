@@ -168,6 +168,13 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/rwarren2
 
+1. https://github.com/techgique
+ 
+1. https://github.com/hepplerj
+ 
+1. https://github.com/decretist
+
+1. https://github.com/emchateau
 
 # Organizations
 
@@ -190,6 +197,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 1. https://github.com/openannotation
 
 1. https://github.com/programminghistorian
+
+1. https://github.com/synopsx
  
 1. https://github.com/TEIC
 
