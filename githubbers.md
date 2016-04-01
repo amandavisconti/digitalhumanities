@@ -162,10 +162,24 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/JaimieMurdock
 
+1. https://github.com/ahamelers
+
+1. https://github.com/rblades
+
+1. https://github.com/rwarren2
+
 
 # Organizations
 
 1. https://github.com/SHOREdevelopers
+
+1. https://github.com/emory-libraries-ecds
+
+1. https://github.com/muninn
+
+1. https://github.com/digitalhumanitiesnow
+
+1. https://github.com/pressforward
 
 1. https://github.com/umd-mith
 
