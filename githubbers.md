@@ -168,6 +168,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/rwarren2
 
+* https://github.com/decretist
+
 
 # Organizations
 
