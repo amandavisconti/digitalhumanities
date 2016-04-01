@@ -212,6 +212,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/inpho
 
+1. https://github.com/leadrmsu
+
 1. [A collection of 28 library (sometimes DHish) repos from @sheepeeh I haven't gone through/added to this list yet](https://www.zotero.org/sheepeeh/items/collectionKey/A6SMTUXQ)
 
 # Useful DH repos
