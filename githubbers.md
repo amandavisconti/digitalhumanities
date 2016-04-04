@@ -94,6 +94,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/corybohon
 
+1.  https://github.com/ctschroeder
+
 1. https://github.com/raffazizzi
 
 1. https://github.com/davidmcclure
@@ -234,3 +236,5 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 1. https://github.com/castiron/didh
 
 1. https://github.com/curateteaching/digitalpedagogy
+
+1. https://github.com/CopticScriptorium
