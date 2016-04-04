@@ -178,6 +178,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/emchateau
 
+1. https://github.com/cblevins
+
 # Organizations
 
 1. https://github.com/SHOREdevelopers
