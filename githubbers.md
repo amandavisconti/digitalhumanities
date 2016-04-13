@@ -190,6 +190,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 
 1. https://github.com/muninn
 
+1. https://github.com/cooperhewitt
+
 1. https://github.com/digitalhumanitiesnow
 
 1. https://github.com/pressforward
