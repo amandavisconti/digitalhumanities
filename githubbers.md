@@ -1,4 +1,4 @@
-A list of DH-ish users and organizations on GitHub. Contact me to be added yourself or add someone else (tweet [@Literature_Geek](http://www.twitter.com/literature_geek) or create a pull request). This list has a tiny URL: [http://tinyurl.com/dhgithub](http://tinyurl.com/dhgithub).
+A list of DH-ish users and organizations on GitHub (libraries, museums, archives, and others working near the inetrsections of digital and cultural heritage are included). Contact me to be added yourself or add someone else (tweet [@Literature_Geek](http://www.twitter.com/literature_geek) or create a pull request). This list has a tiny URL: [http://tinyurl.com/dhgithub](http://tinyurl.com/dhgithub).
 
 # Users
 
@@ -149,6 +149,8 @@ A list of DH-ish users and organizations on GitHub. Contact me to be added yours
 1. https://github.com/jdmar3
 
 1. https://github.com/gfranzini
+
+1. https://github.com/sebchan
 
 1. https://github.com/sethwoodworth
 
