@@ -252,3 +252,5 @@ A list of DH-ish users and organizations on GitHub (libraries, museums, archives
 1. https://github.com/curateteaching/digitalpedagogy
 
 1. https://github.com/CopticScriptorium
+
+1. https://github.com/TimFinnegan/pJoyce
