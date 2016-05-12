@@ -222,7 +222,7 @@ A list of DH-ish users and organizations on GitHub (libraries, museums, archives
 
 1. https://github.com/inpho
 
-1. https://github.com/leadrmsu
+1. https://github.com/leadr-msu
 
 1. https://github.com/matrix-msu
 
