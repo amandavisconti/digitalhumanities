@@ -232,6 +232,8 @@ A list of DH-ish users and organizations on GitHub (libraries, museums, archives
 
 1. https://github.com/lofhm
 
+1. https://github.com/dh-tech
+
 1. [A collection of 28 library (sometimes DHish) repos from @sheepeeh I haven't gone through/added to this list yet](https://www.zotero.org/sheepeeh/items/collectionKey/A6SMTUXQ)
 
 # Useful DH repos
@@ -254,5 +256,3 @@ A list of DH-ish users and organizations on GitHub (libraries, museums, archives
 1. https://github.com/curateteaching/digitalpedagogy
 
 1. https://github.com/CopticScriptorium
-
-1. https://github.com/TimFinnegan/pJoyce
