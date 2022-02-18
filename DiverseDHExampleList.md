@@ -1,3 +1,7 @@
+EDIT: Haven't updated this in at least 6 years, so I no longer consider it necessarily representative of DH nor my POV of it. My goal had been to add the many excellent and kind suggestions of example projects and kinds of work I'd overlooked, which are collected in this issue ( https://github.com/amandavisconti/digitalhumanities/issues/7), but I have not yet added them here. The goal was not to be exhaustive—when I presented around campus on what DH was, I found it better to list a wide variety of examples of good DH rather than rely on my own or others' definitions, because I think you really need to look at the ways these are similar and different to understand some of the stronger, emergent things about DH and its communities that definitions can't capture as well. And I wanted to make sure that short-ish list of projects I used for that purpose wasn't biased toward whiteness and other inequities.
+
+---
+
 DH can look like...
 
 * the University of Michigan’s team work on increasing digital access to [Islamic manuscripts](http://www.lib.umich.edu/islamic/), where scholars have digitized texts' pages and commenters can add scholarly transcriptions and annotations to help others understand these texts.
