@@ -1,6 +1,6 @@
-/* My CSS snippets adjusting the Minimal theme for the Obsidian note-taking software the last 1% to fit my preferences. Many of these are copies or based on ideas shared by the kind commenters on the Obsidian forum. */
+/* DATED, needs update to match current theming and !important non-laziness. My CSS snippets adjusting the Minimal theme for the Obsidian note-taking software the last 1% to fit my preferences. Many of these are copies or based on ideas shared by the kind commenters on the Obsidian forum. */
 
-/* Reduce boldnes of text color for non-selected files in sidebar, to better visually highlight active files */
+/* Reduce boldness of text color for non-selected files in sidebar, to better visually highlight active files */
 .nav-file-title,
 .search-result-file-match {
   color: var(--text-faint);
