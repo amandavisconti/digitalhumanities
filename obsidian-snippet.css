@@ -1,44 +1,52 @@
-/* DATED, needs update to match current theming and !important non-laziness. My CSS snippets adjusting the Minimal theme for the Obsidian note-taking software the last 1% to fit my preferences. Many of these are copies or based on ideas shared by the kind commenters on the Obsidian forum. */
+/* 
 
-/* Reduce boldness of text color for non-selected files in sidebar, to better visually highlight active files */
-.nav-file-title,
-.search-result-file-match {
-  color: var(--text-faint);
-}
+Below is the code in my Obsidian/Snippets/custom.css file (also need to turn on using custom snippets in Obsidian menu > Appearance? for this to work)
 
-/* Increase scrollbar width, so it's easier to see and get my cursor on quickly */
-::-webkit-scrollbar {
-  width:20px;
-}
+I'm also using:
+* Minimal theme
+* A file that just has the Zoom personal meeting room address I use for most of my meetings, pulled into the sidebar so it's visible/can copy+paste from a small area just below my file menu in the sidebar
+* Community plugins:
+** Better Word Count (see character/word count for highlighted text vs. all text)
+** Customizable Menu (add commands like toggle capitalization)
+** Customizable Page Header and Title Bar (to add collapse-all headings and lists icon to individual tab headers)
+** Double Click Tab (allows doubleclick tab header to close file)
+** Hider (remove unused icons, e.g. I don't want to see search/tags stuff I'm not using)
+** Minimal Theme Settings
+** Text Format
 
-/* Adjust normal text appearance outside of headings & code to be more compact */
-.cm-s-obsidian {
-font-size: 15px;
-line-height: 20px;
-}
+*/
 
-/* Remove unnecessary-to-me sidebar functions (Notes header & Search) */
-.workspace-tab-container-inner {
-display: none;
-}
-
-/* Condense line spacing in file explorer & avoid character-level word breaks */
-.nav-file-title-content,
-.search-result-file-title,
-.search-result-file-match {
-padding-top: 0 !important;
-padding-bottom: 0 !important;
-line-height: 110% !important;
-word-break: keep-all;
-}
-
-/* Blockify cursor for quicker visbility of where it is */
-.cm-cursor {
-border-left-width: .3em !important;
-visibility: visible !important;
-}
-
-/* Remove sidebar icons I don't use */
+/* Remove unneeded sidebar icons/headers */
 div[aria-label = "Change sort order"]{
-  display: none;
+	display: none;
 }
+div[aria-label = "Files"]{
+	display: none;
+}
+
+/* Pin toggle stays visible when off and on */
+.view-action.mod-pin-leaf {
+	display: initial!important;
+}
+
+/* Sidebar files line-height; currently good except for multi-line titles, so need selector that targets lis? for separate line-height */
+.nav-file-title {
+	line-height: 1em;
+	display: block;
+}
+
+/* 
+TO DO SOONER:
+* Blockify cursor for visibility (aren't working: .CodeMirror-cursor, .cm-cursor, .cursor, .cm-cursorLayer, .cm-cursor-primary)
+* Wider scrollbars for visibility
+* Condense line spacing in file explorer
+* Pin toggle icon: reintroduce color differentiation for toggled or not
+
+TO DO LATER:
+* Better in-text header collapse/expand arrow to click on
+* Slash to separate Better Word Count plugin selected-text from all text (that doesn't get overwritten when plugin updates...)
+* Create buttons to do common things? E.g. meeting agendas+reminders ("New Button Type: Text Button! Sometimes you don't want to create an entire template note just to insert some text into a note. Sometimes you just want to quickly run a templater command and insert the output into your note. The new Text Button lets you do this!")
+
+RESOURCES:
+Option-command-i for developer tools! But important!s on quick private-use code 4evah
+*/
